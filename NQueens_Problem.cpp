@@ -7,7 +7,7 @@ using namespace std;
 int x[2002];
 
 void print(int n) {
-    cout<<"\nColumns: ";;
+    cout<<"\nColumns: ";
     for(int i=1;i<=n;i++){
         cout<<x[i]<<" ";
     }
